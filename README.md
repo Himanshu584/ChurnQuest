@@ -95,6 +95,8 @@ Developed an Excel dashboard featuring four KPI cards and five visualizations.
 4. Churn Rate by International Plan
 5. Churn Rate by High-Risk Customer Segments
 
+![ChurnQuest Dashboard Image](https://github.com/Himanshu584/ChurnQuest/blob/main/Dashboard.png)
+
 ## Key Findings
 
 ### 1. Customer Service Interactions Are Strongly Associated With Churn
